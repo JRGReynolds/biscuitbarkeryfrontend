@@ -1,0 +1,17 @@
+.footer {
+    padding: 1.5rem;
+    background-color: rgb(48, 48, 48);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+  
+  }
+
+  .iconpad{
+
+    padding-right: 30px;
+
+    color: white;
+  }
